@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Route Finder</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_nearby_maps">Route Finder</string>
+    <string name="title_activity_maps">Route Finder</string>
+    <string name="gps_not_found_title">GPS Not Found</string>
+    <string name="gps_not_found_message">Want To Enable ?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="title_activity_view_directions">Route Finder</string>
+    <string name="title_activity_navigater">Route Finder</string>
+    <string name="title_activity_share_location">Route Finder</string>
+</resources>
